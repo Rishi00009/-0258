@@ -148,9 +148,10 @@
     width: 20%;
     font-size: large;
     float: left;
-    color: chocolate;
+    color: rgb(29, 16, 6);
     margin: 2% 0% 2% 40%;
     border-radius: 7px;
+    background-color:coral;
   }
 }
 
@@ -308,6 +309,7 @@
     color: chocolate;
     margin: 2% 0% 2% 30%;
     border-radius: 7px;
+    background-color:coral;
   }
 }
 
@@ -464,5 +466,6 @@
     color: chocolate;
     margin: 2% 0% 2% 35%;
     border-radius: 7px;
+    background-color:coral;
   }
 }
